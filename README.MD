@@ -1,1 +1,1 @@
-# Curso de Python desde cero ( start 8 may 2026 )
+# Learning Python from scratch ( start 8 may 2026 )
